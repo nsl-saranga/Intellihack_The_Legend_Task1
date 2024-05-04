@@ -1,0 +1,7 @@
+Instructions--->
+1. Firstly clone the repo and open the main.py file from a IDE. (Ex: PyCharm)
+2. Next install the relevant python packages (numpy, pandas, sklearn, joblib)
+3. Download the dataset and save in the same folder as the main.py file. Rename the dataset as "Crop_Dataset.csv"
+4. Compile and run the file. (Here the model will be created and saved as "model.joblib")
+5. The program will ask you to enter N level, P level, K level, Temperture, humidity, pH level, rainfall values to make the prediction.
+6. Then the names of the top 3 crops suitable for the given conditions will be displayed.
